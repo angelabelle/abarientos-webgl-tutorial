@@ -17,7 +17,7 @@ let tree;
 function preload() {
     //spiritedAway = loadImage('images/spirited3.gif');
     // phoneC = loadModel('objects/phoneC.obj', true);
-    tree = loadModel('objects/tree.obj', true);
+    tree = loadModel('objects/Tree.obj', true);
 }
 
 function setup() {
