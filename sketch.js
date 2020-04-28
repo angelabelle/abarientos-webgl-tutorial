@@ -42,7 +42,7 @@ function gotPoses(poses) {
 
 function modelLoaded() {
     console.log('poseNet ready');
-    select('#status').html('I can see clearly now!');
+    select('#status').html("Don't call me a tree head.");
 }
 
 function draw() {
